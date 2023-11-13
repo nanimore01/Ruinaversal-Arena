@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0e0c0a44c08af6c4bb6293004adec1b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerPos: {instanceID: 0}
+  - balaAbajo: {instanceID: 0}
+  - balaArriba: {instanceID: 0}
+  - balaIzquierda: {instanceID: 0}
+  - balaDerecha: {instanceID: 0}
+  - balinAbajo: {fileID: 7762098747127348674, guid: 9bbb7306c1e02b341bb6c774fd0b02d1, type: 3}
+  - balinArriba: {fileID: 7762098747127348674, guid: 9bbb7306c1e02b341bb6c774fd0b02d1, type: 3}
+  - balinIzquierda: {fileID: 7762098747127348674, guid: 9bbb7306c1e02b341bb6c774fd0b02d1, type: 3}
+  - balinDerecha: {fileID: 7762098747127348674, guid: 9bbb7306c1e02b341bb6c774fd0b02d1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

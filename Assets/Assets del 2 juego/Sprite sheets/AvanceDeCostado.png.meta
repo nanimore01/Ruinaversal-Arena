@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 225d75b11e452e9458c01988548dc71a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8348807023276978601
+    second: AvanceDeCostado_0
+  - first:
+      213: -5676401277769567301
+    second: AvanceDeCostado_1
+  - first:
+      213: 8145823518284686521
+    second: AvanceDeCostado_2
+  - first:
+      213: 8658200129267111693
+    second: AvanceDeCostado_3
+  - first:
+      213: -6162558141578136738
+    second: AvanceDeCostado_4
+  - first:
+      213: -2399828574490435397
+    second: AvanceDeCostado_5
+  - first:
+      213: 9035915956952074746
+    second: AvanceDeCostado_6
+  - first:
+      213: -7818583432980549482
+    second: AvanceDeCostado_7
+  - first:
+      213: -1332979825535865466
+    second: AvanceDeCostado_8
+  - first:
+      213: -3879075798570367980
+    second: AvanceDeCostado_9
+  - first:
+      213: -4498580804849533393
+    second: AvanceDeCostado_10
+  - first:
+      213: -5816220555941272871
+    second: AvanceDeCostado_11
+  - first:
+      213: 7684358183538070205
+    second: AvanceDeCostado_12
+  - first:
+      213: 4901541790833918582
+    second: AvanceDeCostado_13
+  - first:
+      213: -685032152062353678
+    second: AvanceDeCostado_14
+  - first:
+      213: 5084291439815651332
+    second: AvanceDeCostado_15
+  - first:
+      213: -7042839076104570398
+    second: AvanceDeCostado_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvanceDeCostado_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 202
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0a470f34132c80800000000000000
+      internalID: -8348807023276978601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 17
+        width: 196
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b8fbdc1f5931b0800000000000000
+      internalID: -5676401277769567301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 190
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a16ad457cb0170800000000000000
+      internalID: 8145823518284686521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 44
+        width: 191
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07153bf42b182870800000000000000
+      internalID: 8658200129267111693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_4
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 57
+        width: 191
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533b8755023a7aa0800000000000000
+      internalID: -6162558141578136738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 48
+        width: 185
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06aa750a812bed0800000000000000
+      internalID: -2399828574490435397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 40
+        width: 179
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9896240b5066d70800000000000000
+      internalID: 9035915956952074746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_7
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 31
+        width: 176
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b076dacfce7390800000000000000
+      internalID: -7818583432980549482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_8
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 22
+        width: 169
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d2c2e39ed408de0800000000000000
+      internalID: -1332979825535865466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_9
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 31
+        width: 171
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41406690d11ca2ac0800000000000000
+      internalID: -3879075798570367980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_10
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 39
+        width: 171
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7d8da794d191c0800000000000000
+      internalID: -4498580804849533393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_11
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 48
+        width: 170
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2abc35832a84fa0800000000000000
+      internalID: -5816220555941272871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_12
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 57
+        width: 168
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db217a0fd0354aa60800000000000000
+      internalID: 7684358183538070205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_13
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 48
+        width: 170
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672436e0a46c50440800000000000000
+      internalID: 4901541790833918582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_14
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 40
+        width: 168
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1a9c13e64e76f0800000000000000
+      internalID: -685032152062353678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_15
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 22
+        width: 168
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40075c470280f8640800000000000000
+      internalID: 5084291439815651332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeCostado_16
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 32
+        width: 170
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9fb82cc2fc24e90800000000000000
+      internalID: -7042839076104570398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AvanceDeCostado_6: 9035915956952074746
+      AvanceDeCostado_0: -8348807023276978601
+      AvanceDeCostado_1: -5676401277769567301
+      AvanceDeCostado_8: -1332979825535865466
+      AvanceDeCostado_16: -7042839076104570398
+      AvanceDeCostado_13: 4901541790833918582
+      AvanceDeCostado_14: -685032152062353678
+      AvanceDeCostado_5: -2399828574490435397
+      AvanceDeCostado_3: 8658200129267111693
+      AvanceDeCostado_10: -4498580804849533393
+      AvanceDeCostado_4: -6162558141578136738
+      AvanceDeCostado_7: -7818583432980549482
+      AvanceDeCostado_15: 5084291439815651332
+      AvanceDeCostado_9: -3879075798570367980
+      AvanceDeCostado_12: 7684358183538070205
+      AvanceDeCostado_2: 8145823518284686521
+      AvanceDeCostado_11: -5816220555941272871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

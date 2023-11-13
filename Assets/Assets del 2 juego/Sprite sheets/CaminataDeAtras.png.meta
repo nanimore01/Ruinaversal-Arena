@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: a71c50cb846e6234a9a4390741d29162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4346464661029309022
+    second: CaminataDeAtras_0
+  - first:
+      213: -3881342836931459014
+    second: CaminataDeAtras_1
+  - first:
+      213: 4519899184016280901
+    second: CaminataDeAtras_2
+  - first:
+      213: 2443132523774471833
+    second: CaminataDeAtras_3
+  - first:
+      213: -4801269813371802172
+    second: CaminataDeAtras_4
+  - first:
+      213: 8674796055545676905
+    second: CaminataDeAtras_5
+  - first:
+      213: -3616858308461987619
+    second: CaminataDeAtras_6
+  - first:
+      213: 1919398734505121536
+    second: CaminataDeAtras_7
+  - first:
+      213: 7045123047829864090
+    second: CaminataDeAtras_8
+  - first:
+      213: 6171150941614981015
+    second: CaminataDeAtras_9
+  - first:
+      213: -842220279794190685
+    second: CaminataDeAtras_10
+  - first:
+      213: 5659079304171682256
+    second: CaminataDeAtras_11
+  - first:
+      213: 8349735016999284387
+    second: CaminataDeAtras_12
+  - first:
+      213: 7763932382934748032
+    second: CaminataDeAtras_13
+  - first:
+      213: 4850887505977984271
+    second: CaminataDeAtras_14
+  - first:
+      213: -4978510535698403957
+    second: CaminataDeAtras_15
+  - first:
+      213: 1939639267692760569
+    second: CaminataDeAtras_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaminataDeAtras_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 258
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a53f8a5b614ea3c0800000000000000
+      internalID: -4346464661029309022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3881390143b22ac0800000000000000
+      internalID: -3881342836931459014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 12
+        width: 257
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4ed34c58e9be30800000000000000
+      internalID: 4519899184016280901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 19
+        width: 255
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee7ca0610c7e120800000000000000
+      internalID: 2443132523774471833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_4
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 26
+        width: 257
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdea2ffa867e5db0800000000000000
+      internalID: -4801269813371802172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_5
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 30
+        width: 260
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96482cd2d01136870800000000000000
+      internalID: 8674796055545676905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 35
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f33908865ecdc0800000000000000
+      internalID: -3616858308461987619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_7
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 42
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071388caf213aa10800000000000000
+      internalID: 1919398734505121536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_8
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 47
+        width: 264
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef0d8d51e45c160800000000000000
+      internalID: 7045123047829864090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_9
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 42
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3742d51554a550800000000000000
+      internalID: 6171150941614981015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_10
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 35
+        width: 263
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bc382e15df44f0800000000000000
+      internalID: -842220279794190685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_11
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 30
+        width: 259
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9fae0e4a6198e40800000000000000
+      internalID: 5659079304171682256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_12
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 26
+        width: 260
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee1e852c730e370800000000000000
+      internalID: 8349735016999284387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_13
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 19
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4af00e570fbb60800000000000000
+      internalID: 7763932382934748032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_14
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 12
+        width: 258
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c23f4c70d15340800000000000000
+      internalID: 4850887505977984271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_15
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 7
+        width: 258
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d28298b07c8eab0800000000000000
+      internalID: -4978510535698403957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeAtras_16
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 0
+        width: 260
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc93723abfaea10800000000000000
+      internalID: 1939639267692760569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaminataDeAtras_7: 1919398734505121536
+      CaminataDeAtras_9: 6171150941614981015
+      CaminataDeAtras_1: -3881342836931459014
+      CaminataDeAtras_10: -842220279794190685
+      CaminataDeAtras_5: 8674796055545676905
+      CaminataDeAtras_11: 5659079304171682256
+      CaminataDeAtras_0: -4346464661029309022
+      CaminataDeAtras_6: -3616858308461987619
+      CaminataDeAtras_3: 2443132523774471833
+      CaminataDeAtras_14: 4850887505977984271
+      CaminataDeAtras_4: -4801269813371802172
+      CaminataDeAtras_8: 7045123047829864090
+      CaminataDeAtras_15: -4978510535698403957
+      CaminataDeAtras_12: 8349735016999284387
+      CaminataDeAtras_16: 1939639267692760569
+      CaminataDeAtras_2: 4519899184016280901
+      CaminataDeAtras_13: 7763932382934748032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

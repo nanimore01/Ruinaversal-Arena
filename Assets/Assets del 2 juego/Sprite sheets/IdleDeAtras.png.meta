@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 78d8de8f08487694c8759cab3f229534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3904779043635691690
+    second: IdleDeAtras_0
+  - first:
+      213: 5704621803518078702
+    second: IdleDeAtras_1
+  - first:
+      213: 3768596846959688814
+    second: IdleDeAtras_2
+  - first:
+      213: 6612966480272478751
+    second: IdleDeAtras_3
+  - first:
+      213: 5064883324485294308
+    second: IdleDeAtras_4
+  - first:
+      213: 4119699449741730073
+    second: IdleDeAtras_5
+  - first:
+      213: -370720497678738481
+    second: IdleDeAtras_6
+  - first:
+      213: -8012930112671085038
+    second: IdleDeAtras_7
+  - first:
+      213: -4224298496155070562
+    second: IdleDeAtras_8
+  - first:
+      213: 3875899409743607045
+    second: IdleDeAtras_9
+  - first:
+      213: -7664291935642807470
+    second: IdleDeAtras_10
+  - first:
+      213: 6600901750343783294
+    second: IdleDeAtras_11
+  - first:
+      213: -8047233812741907423
+    second: IdleDeAtras_12
+  - first:
+      213: 3830315242891208356
+    second: IdleDeAtras_13
+  - first:
+      213: 6101220741444682298
+    second: IdleDeAtras_14
+  - first:
+      213: -4660834098803803285
+    second: IdleDeAtras_15
+  - first:
+      213: 7757796005277916599
+    second: IdleDeAtras_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleDeAtras_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 256
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f74b1f5207fc9c0800000000000000
+      internalID: -3904779043635691690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 7
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea4a05e43ea2f40800000000000000
+      internalID: 5704621803518078702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 14
+        width: 270
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c70bc8ddebc4430800000000000000
+      internalID: 3768596846959688814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 20
+        width: 272
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d4301af9f5cb50800000000000000
+      internalID: 6612966480272478751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_4
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 24
+        width: 280
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8deb87c841a4640800000000000000
+      internalID: 5064883324485294308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_5
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 31
+        width: 284
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9116a3b82dc1c2930800000000000000
+      internalID: 4119699449741730073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_6
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 36
+        width: 289
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb17e8ebafeadaf0800000000000000
+      internalID: -370720497678738481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_7
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 41
+        width: 290
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 365.5, y: 58}
+        - {x: 365.5, y: 62}
+        - {x: 437.5, y: 62}
+        - {x: 437.5, y: 58}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8530548a5cc090800000000000000
+      internalID: -8012930112671085038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_8
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 36
+        width: 287
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc57726e64065c0800000000000000
+      internalID: -4224298496155070562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_9
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 31
+        width: 285
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f9ee4af5f9c530800000000000000
+      internalID: 3875899409743607045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_10
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 24
+        width: 280
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539e197717f2a590800000000000000
+      internalID: -7664291935642807470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_11
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 19
+        width: 275
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73de7a3b2d1b9b50800000000000000
+      internalID: 6600901750343783294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_12
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 12
+        width: 267
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c910fbb7b725090800000000000000
+      internalID: -8047233812741907423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_13
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 7
+        width: 262
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66b466b63082530800000000000000
+      internalID: 3830315242891208356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_14
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 0
+        width: 255
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324e0e40f3eba450800000000000000
+      internalID: 6101220741444682298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_15
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 58
+        width: 287
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b75cfc414615fb0800000000000000
+      internalID: -4660834098803803285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDeAtras_16
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 45
+        width: 284
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd88e3d5a39ab60800000000000000
+      internalID: 7757796005277916599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IdleDeAtras_4: 5064883324485294308
+      IdleDeAtras_12: -8047233812741907423
+      IdleDeAtras_7: -8012930112671085038
+      IdleDeAtras_15: -4660834098803803285
+      IdleDeAtras_16: 7757796005277916599
+      IdleDeAtras_8: -4224298496155070562
+      IdleDeAtras_3: 6612966480272478751
+      IdleDeAtras_2: 3768596846959688814
+      IdleDeAtras_10: -7664291935642807470
+      IdleDeAtras_0: -3904779043635691690
+      IdleDeAtras_6: -370720497678738481
+      IdleDeAtras_1: 5704621803518078702
+      IdleDeAtras_13: 3830315242891208356
+      IdleDeAtras_5: 4119699449741730073
+      IdleDeAtras_11: 6600901750343783294
+      IdleDeAtras_9: 3875899409743607045
+      IdleDeAtras_14: 6101220741444682298
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

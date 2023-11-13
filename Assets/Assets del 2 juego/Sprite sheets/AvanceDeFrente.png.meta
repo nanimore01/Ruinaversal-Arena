@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: 22e8c08d0d303c440990989d424ee359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1879552500394440725
+    second: AvanceDeFrente_0
+  - first:
+      213: 4143847827115364704
+    second: AvanceDeFrente_1
+  - first:
+      213: 2768328751995041514
+    second: AvanceDeFrente_2
+  - first:
+      213: -8369105264236001547
+    second: AvanceDeFrente_3
+  - first:
+      213: -6875016397126905156
+    second: AvanceDeFrente_4
+  - first:
+      213: 1131952043833415556
+    second: AvanceDeFrente_5
+  - first:
+      213: -3722179894416224259
+    second: AvanceDeFrente_6
+  - first:
+      213: 4712726088582523209
+    second: AvanceDeFrente_7
+  - first:
+      213: -7200866756322421900
+    second: AvanceDeFrente_8
+  - first:
+      213: -1696488146077377928
+    second: AvanceDeFrente_9
+  - first:
+      213: 2155964729641988931
+    second: AvanceDeFrente_10
+  - first:
+      213: 6506038409979519584
+    second: AvanceDeFrente_11
+  - first:
+      213: 3444819546374365221
+    second: AvanceDeFrente_12
+  - first:
+      213: 4281010395074576007
+    second: AvanceDeFrente_13
+  - first:
+      213: -5962119234709801799
+    second: AvanceDeFrente_14
+  - first:
+      213: 7454993658831333481
+    second: AvanceDeFrente_15
+  - first:
+      213: -2561878985857647828
+    second: AvanceDeFrente_16
+  - first:
+      213: -1570762366997965306
+    second: AvanceDeFrente_17
+  - first:
+      213: -9150123627479721778
+    second: AvanceDeFrente_18
+  - first:
+      213: -2196711566367845230
+    second: AvanceDeFrente_19
+  - first:
+      213: -2172498671061229611
+    second: AvanceDeFrente_20
+  - first:
+      213: -3564989193405608885
+    second: AvanceDeFrente_21
+  - first:
+      213: 1558098442511181224
+    second: AvanceDeFrente_22
+  - first:
+      213: 1758318759455961931
+    second: AvanceDeFrente_23
+  - first:
+      213: -7368459412887103926
+    second: AvanceDeFrente_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvanceDeFrente_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 222
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7ca4d85fc7ae5e0800000000000000
+      internalID: -1879552500394440725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 226
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615c7ac4a7e18930800000000000000
+      internalID: 4143847827115364704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 22
+        width: 230
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63a2c25541b6620800000000000000
+      internalID: 2768328751995041514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 33
+        width: 234
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f68c558a17fadb80800000000000000
+      internalID: -8369105264236001547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 45
+        width: 238
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d34023090790a0800000000000000
+      internalID: -6875016397126905156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_5
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 56
+        width: 242
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d773f26085bf00800000000000000
+      internalID: 1131952043833415556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_6
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 67
+        width: 246
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff48336b19285cc0800000000000000
+      internalID: -3722179894416224259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_7
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 77
+        width: 249
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496da19867f66140800000000000000
+      internalID: 4712726088582523209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_8
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 0
+        width: 253
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739b7246d1611c90800000000000000
+      internalID: -7200866756322421900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_9
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 67
+        width: 265
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a956ff40dd478e0800000000000000
+      internalID: -1696488146077377928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_10
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 77
+        width: 258
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f492bf768bed10800000000000000
+      internalID: 2155964729641988931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_11
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 56
+        width: 272
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06260e1a6771a4a50800000000000000
+      internalID: 6506038409979519584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_12
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 45
+        width: 277
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52067f040257ecf20800000000000000
+      internalID: 3444819546374365221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_13
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 33
+        width: 281
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebc26c544396b30800000000000000
+      internalID: 4281010395074576007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_14
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 22
+        width: 288
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4399a052c424da0800000000000000
+      internalID: -5962119234709801799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_15
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 10
+        width: 296
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686e650c35757760800000000000000
+      internalID: 7454993658831333481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_16
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 0
+        width: 304
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bba62c2a0627cd0800000000000000
+      internalID: -2561878985857647828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_17
+      rect:
+        serializedVersion: 2
+        x: 5355
+        y: 10
+        width: 303
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d88013f7833ae0800000000000000
+      internalID: -1570762366997965306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_18
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 22
+        width: 302
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8992d4a0b340180800000000000000
+      internalID: -9150123627479721778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_19
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 45
+        width: 300
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29417a41876b381e0800000000000000
+      internalID: -2196711566367845230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_20
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 33
+        width: 300
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df136418fbb9d1e0800000000000000
+      internalID: -2172498671061229611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_21
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 56
+        width: 300
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc3fa773d968ec0800000000000000
+      internalID: -3564989193405608885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_22
+      rect:
+        serializedVersion: 2
+        x: 6932
+        y: 67
+        width: 299
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e7fe374a7f9510800000000000000
+      internalID: 1558098442511181224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_23
+      rect:
+        serializedVersion: 2
+        x: 7250
+        y: 77
+        width: 296
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433743889dc66810800000000000000
+      internalID: 1758318759455961931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvanceDeFrente_24
+      rect:
+        serializedVersion: 2
+        x: 7565
+        y: 0
+        width: 296
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a461bf82439fdb990800000000000000
+      internalID: -7368459412887103926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AvanceDeFrente_14: -5962119234709801799
+      AvanceDeFrente_24: -7368459412887103926
+      AvanceDeFrente_4: -6875016397126905156
+      AvanceDeFrente_18: -9150123627479721778
+      AvanceDeFrente_11: 6506038409979519584
+      AvanceDeFrente_17: -1570762366997965306
+      AvanceDeFrente_0: -1879552500394440725
+      AvanceDeFrente_15: 7454993658831333481
+      AvanceDeFrente_6: -3722179894416224259
+      AvanceDeFrente_10: 2155964729641988931
+      AvanceDeFrente_13: 4281010395074576007
+      AvanceDeFrente_12: 3444819546374365221
+      AvanceDeFrente_22: 1558098442511181224
+      AvanceDeFrente_8: -7200866756322421900
+      AvanceDeFrente_19: -2196711566367845230
+      AvanceDeFrente_16: -2561878985857647828
+      AvanceDeFrente_9: -1696488146077377928
+      AvanceDeFrente_21: -3564989193405608885
+      AvanceDeFrente_5: 1131952043833415556
+      AvanceDeFrente_2: 2768328751995041514
+      AvanceDeFrente_3: -8369105264236001547
+      AvanceDeFrente_20: -2172498671061229611
+      AvanceDeFrente_7: 4712726088582523209
+      AvanceDeFrente_1: 4143847827115364704
+      AvanceDeFrente_23: 1758318759455961931
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

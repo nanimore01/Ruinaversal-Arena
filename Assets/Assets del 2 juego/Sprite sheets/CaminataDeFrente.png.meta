@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: e7e4b428f139607439ee1ec4207ab79a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8684917999682086216
+    second: CaminataDeFrente_0
+  - first:
+      213: -3653501824350428830
+    second: CaminataDeFrente_1
+  - first:
+      213: 1807040991001746174
+    second: CaminataDeFrente_2
+  - first:
+      213: -7692647812349541458
+    second: CaminataDeFrente_3
+  - first:
+      213: -5600712920812992743
+    second: CaminataDeFrente_4
+  - first:
+      213: 3749065123822575348
+    second: CaminataDeFrente_5
+  - first:
+      213: 6119055780981695358
+    second: CaminataDeFrente_6
+  - first:
+      213: 2115982462080689239
+    second: CaminataDeFrente_7
+  - first:
+      213: -982438778688361768
+    second: CaminataDeFrente_8
+  - first:
+      213: -1516033123856689813
+    second: CaminataDeFrente_9
+  - first:
+      213: 6648941633253666562
+    second: CaminataDeFrente_10
+  - first:
+      213: -8813915034372277502
+    second: CaminataDeFrente_11
+  - first:
+      213: -7919036087229028401
+    second: CaminataDeFrente_12
+  - first:
+      213: -6361544192661797712
+    second: CaminataDeFrente_13
+  - first:
+      213: 7045814860929050020
+    second: CaminataDeFrente_14
+  - first:
+      213: -3297611930449108341
+    second: CaminataDeFrente_15
+  - first:
+      213: -1349923472700046189
+    second: CaminataDeFrente_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaminataDeFrente_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba9d8d0819f87780800000000000000
+      internalID: -8684917999682086216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 301
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e955a2772c4dc0800000000000000
+      internalID: -3653501824350428830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 23
+        width: 298
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9a3b0536e31910800000000000000
+      internalID: 1807040991001746174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 33
+        width: 298
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea348b272993e3590800000000000000
+      internalID: -7692647812349541458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_4
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 45
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917400ab5454642b0800000000000000
+      internalID: -5600712920812992743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_5
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 57
+        width: 298
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1041edda570430800000000000000
+      internalID: 3749065123822575348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_6
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 67
+        width: 296
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e63a00d04be450800000000000000
+      internalID: 6119055780981695358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_7
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 78
+        width: 295
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a64b96da7d5d10800000000000000
+      internalID: 2115982462080689239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_8
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 0
+        width: 295
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da26bec22dad52f0800000000000000
+      internalID: -982438778688361768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_9
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 78
+        width: 295
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dbc8f7e7f5fae0800000000000000
+      internalID: -1516033123856689813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_10
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 67
+        width: 295
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe3661039c54c50800000000000000
+      internalID: 6648941633253666562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_11
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 57
+        width: 297
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf3cf69feaea580800000000000000
+      internalID: -8813915034372277502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_12
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 45
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e631b2aee91290800000000000000
+      internalID: -7919036087229028401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_13
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 33
+        width: 297
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c17df24147b7a0800000000000000
+      internalID: -6361544192661797712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_14
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 23
+        width: 298
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a528d22943c7c160800000000000000
+      internalID: 7045814860929050020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_15
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 11
+        width: 298
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ad76bb678c32d0800000000000000
+      internalID: -3297611930449108341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminataDeFrente_16
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 301
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39480c7f0cb144de0800000000000000
+      internalID: -1349923472700046189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaminataDeFrente_8: -982438778688361768
+      CaminataDeFrente_0: -8684917999682086216
+      CaminataDeFrente_3: -7692647812349541458
+      CaminataDeFrente_7: 2115982462080689239
+      CaminataDeFrente_14: 7045814860929050020
+      CaminataDeFrente_11: -8813915034372277502
+      CaminataDeFrente_10: 6648941633253666562
+      CaminataDeFrente_9: -1516033123856689813
+      CaminataDeFrente_1: -3653501824350428830
+      CaminataDeFrente_15: -3297611930449108341
+      CaminataDeFrente_12: -7919036087229028401
+      CaminataDeFrente_16: -1349923472700046189
+      CaminataDeFrente_5: 3749065123822575348
+      CaminataDeFrente_13: -6361544192661797712
+      CaminataDeFrente_4: -5600712920812992743
+      CaminataDeFrente_2: 1807040991001746174
+      CaminataDeFrente_6: 6119055780981695358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
